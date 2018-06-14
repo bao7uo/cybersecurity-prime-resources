@@ -30,7 +30,6 @@ For newcomers to the industry
 
 - https://www.hackthebox.eu/
 - https://www.immersivelabs.com/product-overview/
-- http://mdsec.net/labs/
 
 ## VMs
 
