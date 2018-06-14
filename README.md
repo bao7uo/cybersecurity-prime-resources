@@ -1,4 +1,6 @@
-# Cybersecurity resources
+# Cybersecurity prime resources
+
+For newcomers to the industry
 
 ## OWASP
 
